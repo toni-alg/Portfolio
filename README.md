@@ -29,7 +29,8 @@ Welcome to the repository of my personal portfolio! This website is built to ser
 If you want to use this template for your own personal website, follow these simple steps:
 
 ### 1. Clone the Repository
-
+bash
+```git clone [https://github.com/YOUR_USERNAME/your-portfolio-repo.git](https://github.com/YOUR_USERNAME/your-portfolio-repo.git)```
 ### 2. Customize Locally
 Open the project folder in your preferred code editor (e.g., VS Code) and edit the content in index.html to match your own bio, skills, and projects.
 
