@@ -29,5 +29,32 @@ Welcome to the repository of my personal portfolio! This website is built to ser
 If you want to use this template for your own personal website, follow these simple steps:
 
 ### 1. Clone the Repository
+
+### 2. Customize Locally
+Open the project folder in your preferred code editor (e.g., VS Code) and edit the content in index.html to match your own bio, skills, and projects.
+
+### 3. Run Locally
+You can preview the website by opening index.html directly in your browser, or by using an extension like Live Server to see your changes in real-time.
+
+🤝 Contributing
+Since this project is open source, contributions of any kind are highly welcome! If you have ideas to improve the design, optimize performance, or add cool interactive features:
+
+Fork the project.
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature).
+
+Commit your changes (git commit -m 'Add some AmazingFeature').
+
+Push to the Branch (git push origin feature/AmazingFeature).
+
+Open a Pull Request, and I will gladly review it!
+
+### 📄 License
+This project is licensed under the MIT License - meaning you are completely free to use, modify, and distribute it, even for commercial purposes. See the LICENSE file for more details.
+
+📩 Connect with Me
+GitHub: @toni-alg
+
+LinkedIn: BKH. Dhia Eddine
 ```bash
 git clone [https://github.com/YOUR_USERNAME/your-portfolio-repo.git](https://github.com/YOUR_USERNAME/your-portfolio-repo.git)
